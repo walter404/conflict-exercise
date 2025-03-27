@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# -conflict-exercise
-
-Modificacion en el main
-=======
 # conflict-exercise
-
+Modificacion en el main
 Se realizo una modificacion a la rama feacture branch
->>>>>>> feature-branch
+
